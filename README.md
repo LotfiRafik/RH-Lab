@@ -46,3 +46,11 @@ the user can save the treatments for later use.
 These are the verifications and tests carried out when a user logs in (admin or
 manager) to the site, or when resetting a user's password in case this
 last forgetfulness.
+# Some ScreenShots
+#### ![alt text](https://github.com/LotfiRafik/RH-Lab/blob/master/ScreenShots/login.png)
+#### ![alt text](https://github.com/LotfiRafik/RH-Lab/blob/master/ScreenShots/home.png)
+#### ![alt text](https://github.com/LotfiRafik/RH-Lab/blob/master/ScreenShots/listEmploye.png)
+#### ![alt text](https://github.com/LotfiRafik/RH-Lab/blob/master/ScreenShots/ficheEmploye.png)
+#### ![alt text](https://github.com/LotfiRafik/RH-Lab/blob/master/ScreenShots/conge.png)
+#### ![alt text](https://github.com/LotfiRafik/RH-Lab/blob/master/ScreenShots/backoffice.png)
+
